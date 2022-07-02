@@ -509,3 +509,10 @@ Before posting or emailing something please open the browser javascript console 
 * [Ayms/node-dom](https://github.com/Ayms/node-dom)
 * [Ayms/node-bot](https://github.com/Ayms/node-bot)
 * [Ayms/node-gadgets](https://github.com/Ayms/node-gadgets)
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
